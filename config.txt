@@ -1,0 +1,27 @@
+post_auth        === $2y$10$uzsy1VGyAQ.QuPZKBEfUOeFVJi4/9zV2aP5/JhHL0wxbGL8rxlIGO
+post_url         === https://r.8h.ru/api/event/create.php
+cloud_public_key === WW_aDw3b4sixD3fQa3cs
+cloud_secret_key === q-wPXCPIF5lyHX9rZRuLGSw6v5zv_hwDLmSKYyTR
+cloud_bucket     === video-analytics
+hotel_id         === 1
+camera_id        === 0 
+ch_id            === ch01
+input            === rtsp://admin:passw0rd@10.10.2.5:554
+objects          === 1: ymin=159, ymax=308, xmin=325, xmax=584, state_0=closed, state_1=open, event_type_id=1, obj_type_id=1; 2: ymin=196, ymax=304, xmin=1266, xmax=1359, state_0=closed, state_1=open, event_type_id=1, obj_type_id=1; 3: ymin=10, ymax=1000, xmin=10, xmax=1600, state_0=closed, state_1=open, event_type_id=1, obj_type_id=1;
+min_duration     === 1
+max_duration     === 10
+local_output     === true
+cloud_output     === false
+post_enable      === false
+debug_enable     === true
+at_mr_top        === 8
+at_mr_bot        === 4
+maxr_midr        === 5
+midr_minr        === 5
+at_add_step      === 2
+at_sub_step      === 4
+cap_new_states   === true
+out_video_format === mp4
+adaptive_mode    === false
+fixed_th         === 13
+og_max           === 100
